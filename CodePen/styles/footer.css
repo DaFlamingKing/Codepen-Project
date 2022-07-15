@@ -1,0 +1,25 @@
+.footer {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px; 
+    width: 1950px;  
+    margin-top: -100px;
+}
+
+.footer > .links-wrapper > .nav-link a {
+    margin-bottom: 300px;
+    width: 450px;
+    background-color: #474649;
+    color: #ffffff;
+    font-size: 1.30em;
+    padding: 10px 25px;
+    border: 2px solid #9e9999;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+}

@@ -1,0 +1,48 @@
+.btn {
+    background-color: #4bce79;
+    color: #000000;
+    font-size: 1.50em;
+    padding: 10px 25px;
+    border: 1px solid #928b8b;
+    border-radius: 2px;
+}
+
+.btn2 {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 1.50em;
+    padding: 10px 25px;
+    border: 1px solid #696868;
+    border-radius: 3px;
+}
+
+.centered-btn-wrapper {
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    width: 450px;
+    padding-left: 90px;
+}
+
+.btn3 {
+    background-color: #333235;
+    color: #ffffff;
+    font-size: 1.25em;
+    padding: 10px 15px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.3s;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-gap: 100px;
+    height: 50px;
+    width: 130px;
+}
+
+.centered-btn-wrapper2 {
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+    width: 600px;
+}
